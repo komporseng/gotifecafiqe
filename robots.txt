@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://gotifecafiqe.netlify.app/sitemap.xml
